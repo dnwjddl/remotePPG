@@ -11,4 +11,4 @@ haarcascade 사용
 - 가장 높은 값에 대한 심박수 측정
 
 #### 결과 그래프 및 값
-<br>
+![최종 결과값](https://user-images.githubusercontent.com/72767245/97080960-1b7ca580-163a-11eb-95ea-54fb4a034322.png)
