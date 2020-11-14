@@ -11,5 +11,9 @@ haarcascade 사용
 5. DFT를 이용하여 심박수 측정을 위한 주파수 변환
 6. 가장 높은 값에 대한 심박수 측정
 
+**데이터셋**
+PURE 데이터셋 사용
+https://www.tu-ilmenau.de/en/neurob/data-sets-code/pulse/
+
 #### 결과 그래프 및 값
 ![최종결과](https://user-images.githubusercontent.com/72767245/97080996-6bf40300-163a-11eb-8cdc-9e86072a9c4d.png)
