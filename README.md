@@ -17,3 +17,6 @@ https://www.tu-ilmenau.de/en/neurob/data-sets-code/pulse/
 
 #### 결과 그래프 및 값
 ![최종결과](https://user-images.githubusercontent.com/72767245/97080996-6bf40300-163a-11eb-8cdc-9e86072a9c4d.png)
+
+**Accuracy 계산**
+RMSE 사용하여 각 window별 성능 분석
